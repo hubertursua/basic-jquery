@@ -52,7 +52,7 @@ var $myDiv = $('#myDiv');
 
 jQuery selectors follows more or less the same standard with CSS selectors
 
-The 3 types of selectors are listed below. Most often, you'll use a class or ID selector. Check out the [jQuery website](http://api.jquery.com/category/selectors/) to learn about other types of selectors.
+The common 3 types of selectors are listed below. Most often, you'll use a class or ID selector. Check out the [jQuery website](http://api.jquery.com/category/selectors/) to learn about other types of selectors.
 
 ### HTML element selector
 ```js
