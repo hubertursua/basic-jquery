@@ -95,7 +95,7 @@ $(function () {
 
 ## Common jQuery functions
 
-### `css()`, `addClass()`, `removeClass(), and `hasClass()`
+### `css()`, `addClass()`, `removeClass()`, and `hasClass()`
 You can add inline CSS using the `css()` function.
 
 ```js
